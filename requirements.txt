@@ -1,0 +1,8 @@
+openai==0.28
+requests
+python-dotenv
+pandas
+streamlit
+scikit-learn
+plotly
+pycountry
