@@ -28,7 +28,7 @@
 ## 🎥 Demo
 
 **Watch the walkthrough video:**  
-📺 [👉 Click here to view the demo](https://your-demo-link.com)
+📺 [👉 Click here to view the demo](https://youtu.be/P0RvbPnY-Tc)
 
 ---
 
